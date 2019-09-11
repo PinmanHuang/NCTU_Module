@@ -2,8 +2,9 @@
 * 大助教: 吳郁夫
 * Email: yves.eo98g@nctu.edu.tw
 * LineID: yveswu
-* 出席：20%
+* 出席：10%
 * 作業：50%
+* 期中報告：10% (deadline 11/8 23:59 in pdf)
 * 期末專題：30%
 ## Part 1. Implement LeNet in C++
 #### Introduction
