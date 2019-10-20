@@ -148,12 +148,12 @@
     ![](https://i.imgur.com/IcXCOg6.png)
     * 為何不用 TanH 而選擇用 ReLU?
 
-## Homework
+## Homework1
 * 正確率
 * 花費時間
 * 最好結果的 csv 檔
-* 嘗試修改 activation function, fully connect 比較差異
-* 嘗試將正確率超越 0.973
+* 嘗試修改 activation function -> tanH, fully connect 比較差異
+* 嘗試將正確率超越 0.973 (Bonus!)
 #### Homework on Mac
 ```
 > git clone https://github.com/PinmanHuang/cpp-cnn.git
@@ -243,8 +243,3 @@ Then clone Kaggle Digit Recognizer dataset into the data directory.
 ```
 Fail!!!!!!!!!
 ```
-## Part 2. TensorFlow Kite for Microcontrollers
-
-## Part 3. 
-
-# Technology Ventures Design(I)
